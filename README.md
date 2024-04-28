@@ -1,7 +1,7 @@
 ### About me
 hey... :'D
 
-wish me luck to finish my personal project this time,<br />
+wish me luck on finishing my personal project this time,<br />
 whether it be art or game or article...
 
 oh also, ignore if there're many contributions,<br />
