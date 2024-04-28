@@ -11,5 +11,10 @@ as they are pretty much likely me yapping on my [blog](https://lusazure.github.i
 
 ### Trivia
 (Aug 28, '24)<br />
-I'm getting the hang of it... still not sure.<br />
-I first gotta organize my changes in "Staging Area," before I "push" or "commit" them... to the real "Repo."
+I'm getting the hang of it... still not sure.
+
+- I first gotta organize my changes in "Staging Area"
+- by "committing" with a summary according to their belongings,
+- before I "push" them... to the real "Repo."
+
+well, at least on VS Code...
